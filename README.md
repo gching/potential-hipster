@@ -1,8 +1,16 @@
 # potential-hipster
-Objectifies and makes API more friendly for a non-disclosed company!
 
-## Problem Statement
-Currently, most client libraries offered only provide methods that simply wrap the end points of the API and requires the user to have a very deep understanding about the API. Given this, it is hard for a user to get started (can't remember a better word, uptake?) and developing for their applications and projects. At the same time, the client libraries very much resembles doing it by REST, so all in all, does not provide the anything more different then simply doing RESTful calls.
+tl;dr - Objectified client SDK's that make integration with applications much more pleasing :)
 
-## Solution
-Potential-Hipster is an architecture for the client libraries to help objectify and properly illustrate the backend of "diclosed company". With this shift, the user does not need to deeply understand API and would rather interact with these objects without knowing any endpoints.
+## Introduction and Problem
+
+Currently, most client libraries offered are simply wrappers around the REST API and requires the user to have a very deep understanding about the API. Given this, it is hard for a user to start development for their applications and projects. As well, because the client libraries are just wrappers, there is no other added benefits other then just having assistive methods to do HTTP requests.
+
+## Proposed Solution
+
+Instead of wrapping the REST API in native languages, potential-hipster will provide an object-orientated architecture for SDK's with a focus on client-side languages. This will assist in illustrating the backend and providing users an easier way to use the Podio infrastructure as their backend from their applications. With these easily integrable client SDK's, we allow the users to just focus on the user experience for their applications and not on the infrastrcture.
+
+Additionaly, but not in the main scope of the project, potential-hipster's architecture will include a full suite of assistive features for the SDK's. The following lists out possible additional features:
+* Deeper support for client-side frameworks such as React / React Native, Backbone.js
+* Real-time syncing of data and deliving real time updates to clients
+* Offline support and disk persistence
