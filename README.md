@@ -36,3 +36,7 @@ account.save(...)
 Get an item in the template like so:
 TODO
 
+## Architecture
+A work in progress, but currently, diagram exists here :)
+https://www.lucidchart.com/invitations/accept/7825e77a-f272-493a-819b-5af6a94ed57f
+
