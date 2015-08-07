@@ -37,6 +37,6 @@ Get an item in the template like so:
 TODO
 
 ## Architecture
-A work in progress, but currently, diagram exists here :)
-https://www.lucidchart.com/invitations/accept/7825e77a-f272-493a-819b-5af6a94ed57f
+A work in progress, but currently, here is the diagram:
 
+![arch-diagram](https://www.lucidchart.com/publicSegments/view/55c45f59-3f90-4fb6-a3ec-63900a00c074/image.png)
